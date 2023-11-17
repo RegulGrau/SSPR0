@@ -25,10 +25,10 @@ class Sspr4ApplicationTests {
 
 	@Test
 	void test3() {
-		assertTrue("", true);
+		assertTrue("", 2==2);
 	}
 	@Test
 	void testF() {
-		assertTrue("", false);
+		assertTrue("", 3==2);
 	}
 }
