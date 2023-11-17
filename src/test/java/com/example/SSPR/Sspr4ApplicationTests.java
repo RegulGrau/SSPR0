@@ -13,7 +13,7 @@ class Sspr4ApplicationTests {
 	}
 
 
-/*	@Test
+	@Test
 	void test1() {
 		assertTrue("", 3==3);
 	}
@@ -29,6 +29,6 @@ class Sspr4ApplicationTests {
 	}
 	@Test
 	void testF() {
-		assertTrue("", true);
-	}*/
+		assertTrue("", false);
+	}
 }
